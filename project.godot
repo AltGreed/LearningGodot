@@ -16,8 +16,14 @@ _global_script_class_icons={
 [application]
 
 config/name="Replay Try"
-run/main_scene="res://helloWorld.tscn"
+run/main_scene="res://TimerExample.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=480
+window/size/height=720
+window/stretch/aspect="keep"
 
 [input]
 
